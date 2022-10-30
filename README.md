@@ -1,6 +1,6 @@
 # PostList with sort/filter/adding/resort/removing(wip)
 ## Description:
-  Small website as some checkpoint in my learning React
+  Small website as some checkpoint in my learning of React
 ## Includes:
 - adding post
 - sorting posts
